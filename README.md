@@ -118,29 +118,6 @@ python chatbot.py
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of your application here.
-
-Example:
-
-```
-README Images/
-├── Home.png
-├── Angry_Mode.png
-├── Funny_Mode.png
-└── Sad_Mode.png
-```
-
-Then include them like this:
-
-```markdown
-![Home](README Images/Home.png)
-
-![Funny Mode](README Images/Funny_Mode.png)
-```
-
----
 
 ## 📌 Future Improvements
 
